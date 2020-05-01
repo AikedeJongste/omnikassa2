@@ -10,7 +10,7 @@ Rabobank. The documentation for this API is currently here:
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'omnikassa2'
+gem 'omnikassa2', git: 'https://github.com/AikedeJongste/omnikassa2.git', branch: 'master'
 ```
 
 And then execute:
