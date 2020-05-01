@@ -17,10 +17,6 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install omnikassa2
-
 
 ## Usage
 
@@ -127,7 +123,7 @@ yourapp.com/omnikassa and add this route to your routes file:
   end
 ```
 
-4. Process async payment status update by Omnikassa).
+4. Process async payment status update by Omnikassa.
 
 ```ruby
   # This code could be in a Rails controller action.
